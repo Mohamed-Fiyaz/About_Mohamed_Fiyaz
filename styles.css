@@ -103,18 +103,20 @@ hr {
 .skill-row2 {
     width: 70%;
     margin: auto;
-    text-align: right;
+    text-align: left;
 
 }
 
 .about{
     width: 40%;
     margin: auto;
+    font-size: 20px;
 }
 
 .contact-message {
     width: 40%;
     margin: 40px auto 60px;
+    font-size: 20px;
 }
 
 .btn1 {
