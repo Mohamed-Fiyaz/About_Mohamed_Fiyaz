@@ -92,6 +92,12 @@ hr {
     margin-left: 30px;
 }
 
+.typing-img {
+    float: left;
+    width: 10%;
+    margin-right: 30px;
+}
+
 .skill-row1 {
     width: 70%;
     margin: auto;
@@ -106,6 +112,14 @@ hr {
     text-align: left;
 
 }
+
+.skill-row3 {
+    width: 70%;
+    margin: auto;
+    text-align: left;
+
+}
+
 
 .about{
     width: 40%;
