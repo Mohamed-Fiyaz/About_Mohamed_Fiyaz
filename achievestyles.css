@@ -23,6 +23,18 @@ p {
     font-size: 20px;
 }
 
+/* Last image in row */
+.hl {
+    text-align: center;
+    padding-left: 0px;
+}
+
+.pl {
+    text-align: center;
+    padding-left: 0px;
+    font-size: 20px;
+}
+
 /* All images should be 170px*170px */
 .py1 {
     padding-top: 15px;
